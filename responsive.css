@@ -1,0 +1,185 @@
+@media only screen and (max-width:992px) {
+    .navbar{
+        background-color: black;
+    }
+
+
+    a.nav-links {
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     display: inline-block;
+     padding: 3px 24px;
+     font-family: "Nunito Sans", Arial, sans-serif;
+     transition: all .4s;
+    
+
+ }
+
+ .projectilebox h1 {
+    font-size: 37px;
+    font-weight: 500;
+}
+
+.projectilebox p {
+    font-size: 14px;
+}
+
+ a.ld {
+     color: rgb(255, 255, 255)!important;
+     font-family: 'Nunito Sans';
+     font-weight: 800;
+     font-size: 20px;
+     transition: all .4s;
+ }
+
+ ul.navbar-nav {
+     margin-top: 21px;
+     padding-bottom: 6px;
+ }
+ 
+ ul.navbar-nav li {
+     padding: 6px 2px;
+ }
+
+
+ .g-building {
+    margin-top: 78px!important;
+    margin-left: 3%;
+}
+
+ 
+}
+
+@media only screen and (max-width: 376px) {
+    .text h1 {
+        font-size: 49px;
+      }
+      .text {
+        margin-top: 77px;
+      }
+      img.parallax {
+          transform: none!important;
+          z-index: -1;
+          height: 100%;
+          width: 142%;
+        }
+
+        
+.projectilebox.\34 th {
+    border-right: none;
+}
+
+ 
+
+.projectilebox.\32 nd {
+    border-right: none;
+}
+
+ 
+
+.projectilebox.\31 st {
+    border-right: none;
+}
+
+  }
+
+
+  @media only screen and (max-width: 768px) {
+ 
+      img.parallax {
+          transform: none!important;
+        }
+
+        
+.projectilebox.\34 th {
+    border-right: none;
+}
+
+ 
+.projectilebox.\32 nd {
+    border-right: none;
+}
+
+ 
+
+.projectilebox.\31 st {
+    border-right: none;
+}
+
+
+.g-building:before {
+    position: absolute;
+    content: '';
+    width: 0px;
+    height: 0px;
+}
+
+
+
+  }
+
+
+
+
+
+
+  
+  @media only screen and (max-width: 576px) {
+ 
+    img.parallax {
+        transform: none!important;
+      }
+
+      
+.projectilebox.\34 th {
+  border-right: none;
+}
+
+
+.projectilebox.\32 nd {
+  border-right: none;
+}
+
+
+
+.projectilebox.\31 st {
+  border-right: none;
+}
+
+
+.g-building:before {
+  position: absolute;
+  content: '';
+  width: 0px;
+  height: 0px;
+}
+
+
+.col-lg-5.col-md-5.kk {
+    background: url('image/5.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* padding: 130px; */
+    height: 677px;
+    order: 1;
+}
+
+.g-building {
+    margin-top: 71px!important;
+    margin-left: 3%;
+    position: relative;
+    order: 2;
+}
+
+
+.gg{
+    order: 1;
+}
+
+
+
+}
+
+
+
